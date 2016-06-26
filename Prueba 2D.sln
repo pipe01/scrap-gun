@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba 2D.CSharp", "Prueba 2D.CSharp.csproj", "{D6F875D6-9414-3EA3-910A-9230AAFECE98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba 2D.CSharp.Editor", "Prueba 2D.CSharp.Editor.csproj", "{1958F14B-8897-3B8D-A29F-EA3F3DDA32E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6F875D6-9414-3EA3-910A-9230AAFECE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F875D6-9414-3EA3-910A-9230AAFECE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F875D6-9414-3EA3-910A-9230AAFECE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F875D6-9414-3EA3-910A-9230AAFECE98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1958F14B-8897-3B8D-A29F-EA3F3DDA32E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1958F14B-8897-3B8D-A29F-EA3F3DDA32E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1958F14B-8897-3B8D-A29F-EA3F3DDA32E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1958F14B-8897-3B8D-A29F-EA3F3DDA32E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
